@@ -47,7 +47,7 @@ Committing to a large program in a Taproot address requires significant amounts 
 - [什么是BitVM? - Youtube -中文字幕翻译](https://twitter.com/Bitvm_cn/status/1759169892845265177)
 - [Robin Linus on BitVM - Youtube ](https://www.youtube.com/watch?v=9aBuGObjEHs)
 - [Robin Linus on BitVM - Youtube - 中英字幕翻译](https://twitter.com/Bitvm_cn/status/1759043692067999909)
-
+- [Ark Whiteboard Masterclass with Burak & Robin](https://www.youtube.com/watch?v=EocWax43QgQ)
 - [BitVM Intro: Create Logic Gates and Circuits in Python](https://www.youtube.com/watch?v=cnijtOVRwgg)
 - [BitVM 8 bit CPU: Write Bitcoin programs in Assembly](https://www.youtube.com/watch?v=lQ9agL725G0)
 - [Demo of Robin Linus's implementation of bitvm](https://youtu.be/7sRqzoZorn0)
