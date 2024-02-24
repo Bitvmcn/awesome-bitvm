@@ -56,7 +56,8 @@ Committing to a large program in a Taproot address requires significant amounts 
 - [BitVM 8 bit CPU: Assembly Quirks](https://youtu.be/MjCyTT-Wpzg)
 - [How bitvm works: from logic gates to an 8bit cpu for bitcoin](https://www.youtube.com/watch?v=IRU83gRcw3Y)
 - [S15 E13: Robin Linus on BitVM & Permissionless Bitcoin Development](https://www.youtube.com/watch?v=Defp4sX7eEc)
-- [BitVM: A Tool for Smarter Smart Contracts](https://www.youtube.com/watch?v=iEM_txmJYxA)
+- [BitVM: A Tool for Smarter Smart Contracts](https://www.youtube.com/watch?v=iEM_txmJYxA), correspondig doc: [Bits, Booleans, Battlestar Galactic: How bitvm works](https://docs.google.com/presentation/d/1vwWUP6PyDgZ4xh72fUouf5iBEZGuFLIF9-O5z5GUshs/edit#slide=id.p)
+- [Bitvm Crash Course](https://www.youtube.com/watch?v=_Met2lUO0P0), correspoding stacker news: [Bitvm Crash Course by supertestnet - learn to build on bitvm through tic tac toe](https://stacker.news/items/435328)
 
 #### 精选链接
 
@@ -114,6 +115,7 @@ Committing to a large program in a Taproot address requires significant amounts 
 - [rv32i to BitVM](https://github.com/zippiehq/rv32i-to-bitvm)
 - [Toy BitVM RS](https://github.com/chainwayxyz/toy-bitvm-rs)
 - [Tapleaf Circuits](https://github.com/supertestnet/tapleaf-circuits)
+- [BitVM tic tac toe app](https://github.com/supertestnet/bitvm-workshop)
   
 ## Apps(应用)
 
