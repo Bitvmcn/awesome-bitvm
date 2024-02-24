@@ -114,6 +114,7 @@ Committing to a large program in a Taproot address requires significant amounts 
 - [rv32i to BitVM](https://github.com/zippiehq/rv32i-to-bitvm)
 - [Toy BitVM RS](https://github.com/chainwayxyz/toy-bitvm-rs)
 - [Tapleaf Circuits](https://github.com/supertestnet/tapleaf-circuits)
+- [BitVM tic tac toe app](https://github.com/supertestnet/bitvm-workshop)
   
 ## Apps(应用)
 
