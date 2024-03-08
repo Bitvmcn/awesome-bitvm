@@ -57,6 +57,7 @@ Committing to a large program in a Taproot address requires significant amounts 
 - [How bitvm works: from logic gates to an 8bit cpu for bitcoin](https://www.youtube.com/watch?v=IRU83gRcw3Y)
 - [S15 E13: Robin Linus on BitVM & Permissionless Bitcoin Development](https://www.youtube.com/watch?v=Defp4sX7eEc)
 - [BitVM: A Tool for Smarter Smart Contracts](https://www.youtube.com/watch?v=iEM_txmJYxA)
+- [Workshops Casa21 - BitVM: Bitcoin Smart Contracts With Rich State](https://www.youtube.com/watch?v=LwH9fhY4uGA)
 
 #### 精选链接
 
